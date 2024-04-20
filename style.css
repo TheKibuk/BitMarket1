@@ -145,7 +145,7 @@ footer {
 h1::before{
     content: '';
     position: absolute;
-    left: 450px;
+    left: 500px;
     right: px;
     top: 280px;
     background-color: white;
@@ -158,7 +158,7 @@ h1::before{
 h1::after{
     content: '';
     position: absolute;
-    right: 450px;
+    right: 500px;
     left: px;
     top: 280px;
     background-color: white;
@@ -169,14 +169,14 @@ h1::after{
 
 .job{
     position: absolute;
-    top:2700px;
+    top:2200px;
     left: 15px;
     right: ;
 }
 
 .jobi{
     position: absolute;
-    top:2800px;
+    top:2280px;
     left: 15px;
     right: ;
 }
@@ -192,3 +192,4 @@ h1::after{
     background-color: #36bbce;
     color: white;
 }
+
